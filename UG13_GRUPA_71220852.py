@@ -100,7 +100,7 @@ z.forward(90)
 t.pendown()
 z.pendown()
 
-#angka 9
+#angka 5
 t.pensize(7)
 z.pensize(7)
 
